@@ -17,24 +17,27 @@ var
 end  
   
   
-  
-  
-#   while counter < scale.length do
-#   puts scale[counter]
-#   counter += 1
-# end
-
-# find_element_index[scale,2]
-
-# end
 
 
 
 
+# array of integers
+# loop through array to find max value
 
 def find_max_value(array)
-  # Add your solution here
+  
+  
 end
+
+
+
+
+
+
+
+
+
+
 
 def find_min_value(array)
   # Add your solution here
