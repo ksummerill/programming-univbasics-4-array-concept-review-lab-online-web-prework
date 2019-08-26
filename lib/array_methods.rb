@@ -22,6 +22,7 @@ end
 
 def find_max_value(array)
    while array[index] do
+     var = index
       puts array[index]
     end
   
