@@ -20,9 +20,11 @@ end
 # array of integers
 # loop through array to find max value
 
+var = index
+
 def find_max_value(array)
    while array[index] do
-     var = index
+     
       puts array[index]
     end
   
