@@ -16,16 +16,12 @@ end
 var
 end  
   
-  
-
-
-
 
 # array of integers
 # loop through array to find max value
 
 def find_max_value(array)
- 
+  
   
 end
 
