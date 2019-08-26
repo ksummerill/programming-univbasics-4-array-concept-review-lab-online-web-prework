@@ -13,8 +13,8 @@ end
 # loop through array to find max value
 
 def find_max_value(array)
-  array.each { ||
-    
+  array.each { |item|
+    puts item
   }
   
 end
