@@ -13,10 +13,9 @@ end
 # loop through array to find max value
 
 def find_max_value(array)
-   while array[index] do
-     
-      puts array[index]
-    end
+  array.each { ||
+    
+  }
   
 end
 
